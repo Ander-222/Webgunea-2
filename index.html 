@@ -12,6 +12,6 @@
             <h1>Ander222</h1>
             <h2>Independentzia</h2>
             <p>Aupa</p>
-            <button class="irudia-botoia"
-        </body>
+               <button type="button">Click Me!</button>                   
+    </body>
 </html>
